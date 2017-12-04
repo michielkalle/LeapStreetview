@@ -1,4 +1,4 @@
-# **Hyperlapse.js**
+# LEAP Streetview
 
 ### JavaScript hyper-lapse utility for Google Street View.
 
